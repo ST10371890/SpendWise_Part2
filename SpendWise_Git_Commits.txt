@@ -1,0 +1,22 @@
+# SpendWise Project – Git Commit Log
+
+```
+Initial commit: Added project overview and README
+Added initial UI screen mockups (Dashboard, Add Expense, Reports)
+Documented app features and technical requirements
+Created base MainActivity with navigation placeholders
+Added layout files for home screen and bottom navigation
+Implemented user login and registration screens
+Designed login and registration layouts
+Created add expense screen with input form and image upload
+Defined Room DB entity for storing expenses
+Implemented budget tracking by category
+Created model and layout for managing categories
+Integrated MPAndroidChart for visual spending reports
+Added layout for spending summary charts and filters
+Added gamification engine for badge rewards and streaks
+Implemented detection of recurring subscriptions
+Developed multi-currency conversion for Travel Mode
+Fixed UI bugs, improved accessibility support, added dark mode
+Final release of SpendWise APK
+```
